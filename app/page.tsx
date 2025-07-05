@@ -191,13 +191,15 @@ export default function BaliPlayWebsite() {
                     <ChevronRight className="ml-2 h-5 w-5" />
                   </Button>
                 </Link>
-                <Button
+                <Link href="https://www.instagram.com/p/DLgZn4FySGO/" target="_blank" rel="noopener noreferrer" passHref>
+                  <Button
                   size="lg"
                   variant="outline"
                   className="border-orange-300 text-orange-700 hover:bg-orange-50 text-lg px-8 py-3 bg-transparent"
-                >
+                  >
                   Tonton Video
-                </Button>
+                  </Button>
+                </Link>
               </div>
 
               <div className="flex items-center space-x-8 pt-4">
@@ -413,7 +415,7 @@ export default function BaliPlayWebsite() {
               </div>
 
                 <div className="flex space-x-4 pt-4">
-                <Link href="https://heylink.me/baliplay--" target="_blank" rel="noopener noreferrer">
+                <Link href="https://www.instagram.com/baliplay_winner/" target="_blank" rel="noopener noreferrer">
                   <Button variant="secondary" size="icon" className="bg-white/20 hover:bg-white/30 text-white border-0">
                   <Instagram className="w-5 h-5" />
                   </Button>
