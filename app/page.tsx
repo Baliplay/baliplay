@@ -280,9 +280,11 @@ export default function BaliPlayWebsite() {
                       </div>
                     ))}
                   </div>
-                  <Button className="w-full bg-gradient-to-r from-orange-500 to-blue-500 hover:from-orange-600 hover:to-blue-600">
-                    Book This Tour
-                  </Button>
+                    <Link href="https://heylink.me/baliplay--" passHref>
+                    <Button className="w-full bg-gradient-to-r from-orange-500 to-blue-500 hover:from-orange-600 hover:to-blue-600">
+                      Book This Tour
+                    </Button>
+                    </Link>
                 </CardContent>
               </Card>
             ))}
