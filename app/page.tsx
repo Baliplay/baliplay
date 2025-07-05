@@ -51,13 +51,13 @@ export default function BaliPlayWebsite() {
       name: "Sarah Johnson",
       country: "Australia",
       rating: 5,
-      comment: "Amazing experience! Our guide was knowledgeable and friendly. Highly recommend BaliPlay!",
+      comment: "Amazing experience! Our guide was knowledgeable and friendly. Highly recommend Baliplay!",
     },
     {
       name: "Marco Rodriguez",
       country: "Spain",
       rating: 5,
-      comment: "Perfect tour organization. Saw the most beautiful places in Bali. Thank you BaliPlay team!",
+      comment: "Perfect tour organization. Saw the most beautiful places in Bali. Thank you Baliplay team!",
     },
     {
       name: "Lisa Chen",
@@ -77,13 +77,13 @@ export default function BaliPlayWebsite() {
               <div className="flex items-center space-x-2">
                 <Image
                   src="/baliplay_favicon.png?height=40&width=40"
-                  alt="BaliPlay Logo"
+                  alt="Baliplay Logo"
                   width={40}
                   height={40}
                   className="rounded-lg"
                 />
                 <span className="text-2xl font-bold bg-gradient-to-r from-orange-600 to-blue-600 bg-clip-text text-transparent">
-                  BaliPlay
+                  Baliplay
                 </span>
               </div>
             </div>
@@ -351,7 +351,7 @@ export default function BaliPlayWebsite() {
             <div className="relative">
               <Image
                 src="/baliplay_logo.png?height=500&width=600"
-                alt="BaliPlay team"
+                alt="Baliplay team"
                 width={600}
                 height={500}
                 className="rounded-2xl shadow-xl"
@@ -443,7 +443,7 @@ export default function BaliPlayWebsite() {
               </div>
                 <Image
                 src="/baliplay_logo.png?height=32&width=32"
-                alt="BaliPlay Logo"
+                alt="Baliplay Logo"
                 width={100}
                 height={100}
                 className="rounded-lg"
@@ -451,7 +451,7 @@ export default function BaliPlayWebsite() {
             </div>
             <p className="text-gray-400 mb-6">Your gateway to authentic Bali experiences</p>
             <div className="border-t border-gray-800 pt-6">
-              <p className="text-gray-500">© 2024 BaliPlay. All rights reserved. Made with ❤️ in Bali</p>
+              <p className="text-gray-500">© 2024 Baliplay. All rights reserved. Made with ❤️ in Bali</p>
             </div>
           </div>
         </div>
