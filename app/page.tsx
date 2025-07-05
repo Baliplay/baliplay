@@ -420,7 +420,7 @@ export default function BaliPlayWebsite() {
                   <Instagram className="w-5 h-5" />
                   </Button>
                 </Link>
-                <Link href="https://heylink.me/baliplay--" target="_blank" rel="noopener noreferrer">
+                <Link href="https://www.facebook.com/groups/1019062561759031" target="_blank" rel="noopener noreferrer">
                   <Button variant="secondary" size="icon" className="bg-white/20 hover:bg-white/30 text-white border-0">
                   <Facebook className="w-5 h-5" />
                   </Button>
