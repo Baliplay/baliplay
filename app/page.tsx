@@ -105,7 +105,7 @@ export default function BaliPlayWebsite() {
               <Link href="#contact" className="text-gray-700 hover:text-orange-600 transition-colors">
                 Contact
               </Link>
-                <Link href="https://heylink.me/baliplay--" passHref>
+                <Link href="https://heylink.me/Baliplay++/" passHref>
                 <Button className="bg-gradient-to-r from-orange-500 to-blue-500 hover:from-orange-600 hover:to-blue-600">
                   Book Now
                 </Button>
@@ -182,7 +182,7 @@ export default function BaliPlayWebsite() {
               </div>
 
               <div className="flex flex-col sm:flex-row gap-4">
-                <Link href="https://heylink.me/baliplay--" passHref>
+                <Link href="https://heylink.me/Baliplay++/" passHref>
                   <Button
                     size="lg"
                     className="bg-gradient-to-r from-orange-500 to-blue-500 hover:from-orange-600 hover:to-blue-600 text-lg px-8 py-3"
@@ -282,7 +282,7 @@ export default function BaliPlayWebsite() {
                       </div>
                     ))}
                   </div>
-                    <Link href="https://heylink.me/baliplay--" passHref>
+                    <Link href="https://heylink.me/Baliplay++/" passHref>
                     <Button className="w-full bg-gradient-to-r from-orange-500 to-blue-500 hover:from-orange-600 hover:to-blue-600">
                       Book This Tour
                     </Button>
@@ -410,12 +410,12 @@ export default function BaliPlayWebsite() {
                 </div>
                 <div className="flex items-center space-x-3">
                   <MapPin className="w-5 h-5 text-orange-200" />
-                  <span className="text-orange-100">Ubud, Bali, Indonesia</span>
+                  <span className="text-orange-100">Bali, Indonesia</span>
                 </div>
               </div>
 
                 <div className="flex space-x-4 pt-4">
-                <Link href="https://www.instagram.com/baliplay_winner/" target="_blank" rel="noopener noreferrer">
+                <Link href="https://www.instagram.com/baliplayofficial/" target="_blank" rel="noopener noreferrer">
                   <Button variant="secondary" size="icon" className="bg-white/20 hover:bg-white/30 text-white border-0">
                   <Instagram className="w-5 h-5" />
                   </Button>
