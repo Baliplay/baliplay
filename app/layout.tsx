@@ -5,6 +5,9 @@ export const metadata: Metadata = {
   title: 'Baliplay',
   description: 'Created with Baliplay',
   generator: 'v0.dev',
+  icons: {
+    icon: '/baliplay-new-favicon.png',
+  },
 }
 
 export default function RootLayout({
